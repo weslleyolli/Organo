@@ -6,7 +6,7 @@
 <p align="center">
     <img src="./Organo.png" alt="Preview">
 </p>
-# Team Builder -A Application for Creating Technology Teams
+## Team Builder -A Application for Creating Technology Teams
 
 Welcome to Team Builder, a powerful and intuitive application designed to help you create and manage teams of professionals across various technology domains. This project is built using the React framework and leverages JavaScript to provide a seamless and interactive user experience.
 
