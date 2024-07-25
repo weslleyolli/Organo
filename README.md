@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Made%20by&message=Weslley&color=white&labelColor=8257E5" alt="Made by Rocketseat">
+  <img src="https://img.shields.io/github/forks/weslleyolli/Organo?label=forks&message=MIT&color=white&labelColor=8257E5" alt="Forks">
+  <img src="https://img.shields.io/github/stars/weslleyolli/Organo?label=stars&message=MIT&color=white&labelColor=8257E5" alt="Stars">
+</p>
+<p align="center">
+    <img src="./Organo.png" alt="Preview">
+</p>
+# Team Builder -A Application for Creating Technology Teams
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to Team Builder, a powerful and intuitive application designed to help you create and manage teams of professionals across various technology domains. This project is built using the React framework and leverages JavaScript to provide a seamless and interactive user experience.
 
-## Available Scripts
+## Project Overview
 
-In the project directory, you can run:
+Team Builder is your go-to tool for assembling and organizing teams of experts in different areas of technology. Whether you're managing a software development project, a data science initiative, or a cybersecurity task force, Team Builder simplifies the process of team creation and management.
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Intuitive User Interface:** A clean and user-friendly interface that makes it easy to navigate and use the application.
+- **Team Creation:** Quickly create teams by adding members with specific roles and skills.
+- **Role Assignment:** Assign roles such as developer, designer, data scientist, project manager, and more to team members.
+- **Skill Management:** Define and manage the skills required for each role to ensure your team has the necessary expertise.
+- **Dynamic Updates:** Real-time updates and changes to team composition, ensuring you always have the most accurate information.
+- **Collaboration Tools:** Integrated features that promote collaboration and communication within the team.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technical Details
 
-### `npm test`
+- **Framework:** React, a popular JavaScript library for building user interfaces.
+- **Language:** JavaScript, ensuring high performance and flexibility.
+- **State Management:** Utilizes React's state management capabilities to handle dynamic data and user interactions.
+- **Styling:** Modern CSS techniques to create a visually appealing and responsive design.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Learning Experience
 
-### `npm run build`
+Developing Team Builder was an enriching experience that deepened my understanding of React and modern JavaScript development. Through this project, I gained practical experience in:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Component-Based Architecture:** Building reusable and modular components to streamline development and maintenance.
+- **State Management:** Effectively managing application state using React's hooks and context API.
+- **Responsive Design:** Implementing responsive design principles to ensure a great user experience on both desktop and mobile devices.
+- **API Consumption:** Integrating and working with external APIs to enhance functionality and data availability.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Try It Out
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Explore the Team Builder application and see how it can help you streamline the process of creating and managing technology teams. [Try Team Builder](https://example.com)
 
-### `npm run eject`
+I'm excited to continue enhancing this project and adding new features to meet the evolving needs of team management. Stay tuned for more updates and improvements!
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
